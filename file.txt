@@ -1,19 +1,6 @@
 Hello, world.
 
-How are you?
 
-
-
-
-
-
-
-
-
-
-Say hi 
-
-
-
+say hi
 
 
