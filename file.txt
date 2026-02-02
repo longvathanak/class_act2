@@ -1,17 +1,4 @@
-Hello, world.
-
-How are you?
-
-
-
-
-
-
-
-
-
-
-Say hi 
+Hello, How are you?
 
 
 
